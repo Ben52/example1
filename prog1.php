@@ -14,7 +14,7 @@ class blueprint {
  }
 }
 class radio extends blueprint {
-  public $station = '105.9';
+  public $station = '107.9';
 }
 $object = new radio;
 $object->email = 'noam@gmail.com';
